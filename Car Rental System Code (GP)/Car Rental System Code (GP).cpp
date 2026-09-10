@@ -2,7 +2,7 @@
 #include <cstring> // For strcpy, strcmp, etc.
 #include <cmath>
 using namespace std;
-
+//test
 // Function prototypes
 void   activitiesAssign(int, char[], char[]);
 int    activitiesOption(char[]);
